@@ -1,0 +1,33 @@
+﻿@using News.Controller
+@inherits Umbraco.Web.Mvc.UmbracoViewPage<News.ViewModel.LoginViewModel>
+@if (User.Identity.IsAuthenticated)
+{
+    <h4 style="color: darkblue; font-style:italic"> Logged in: @User.Identity.Name</h4>
+    <h5 style="color: grey; font-style:italic">@Html.ActionLink("Logout", "MemberLogout", "Login")</h5>
+}
+else
+{
+    using (Html.BeginUmbracoForm<LoginController>("Login"))
+     {
+         <div class="form-horizontal container login-form">
+
+             <div class="username form-group row">
+                 <label class="col-md-2">UserName</label>
+                 @Html.EditorFor(m => m.UserName, new {htmlAttributes = new {@class = "form-control col-md-6"}})
+              </div>
+             <div class="password form-group row">
+                 <label class="col-md-2">Password</label>
+                 @Html.EditorFor(m => m.Password, new {htmlAttributes = new {@class = "form-control col-md-6"}})
+             </div>
+             <div class="remember-me form-group row">
+                 <label class="col-md-2">Remember Me</label>
+                 @Html.EditorFor(m => m.Password, new { htmlAttributes = new { @class = "form-control col-md-6", type="checkbox" } })
+             </div>
+             @*@Html.EditorFor(x => Model)*@
+             <h3 style="color: red">@TempData["error-password"]</h3>
+             <div class="form-group row">
+                 <input class="btn btn-primary col-md-2 btn-login" type="submit" value="Sign In"/>
+             </div>
+         </div>
+   }
+}

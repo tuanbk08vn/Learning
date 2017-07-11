@@ -1,0 +1,39 @@
+﻿@using News.Controller
+@inherits Umbraco.Web.Mvc.UmbracoViewPage<News.ViewModel.PostNewsViewModel>
+
+@using (Html.BeginUmbracoForm<PostNewsController>("AddNewsPost"))
+{
+    <div class="form-horizontal container post-news-form">
+        <div class="news-title form-group row">
+            <label class="col-md-2">News Title</label>
+            @Html.EditorFor(x=>Model.NewsTitle, new { htmlAttributes = new { @class = "form-control col-md-10", @Value="Donald Trump met Vietnam Prime Minister at G20 Conference" } })
+        </div>
+        <div class="news-content row">
+            <label class="col-md-2">News Content</label>
+            @Html.TextAreaFor(x => Model.NewsContent, new { @class = "form-control col-md-10", @Value = "This is news Content....." , @rows = 10, @cols=110, placeholder="This is news Content....."})
+        </div>
+        @*<div class="news-image form-group row">
+            <label class="col-md-2">News Image</label>
+            @Html.EditorFor(x => Model.NewsImage, new { htmlAttributes = new { @class = "form-control col-md-10", @Value= "http://2.i.baomoi.xdn.vn/w460x/17/07/08/100/22708252/1_140638.jpg" } })
+            <label class="col-md-2"></label>
+            <img src="" class="col-md-10 " alt="News Image Upload" id="news-image-upload"/>
+        </div>*@
+        <div class="news-photo form-group row">
+            <label class="col-md-2">My Photo</label>
+            <input type="file" name="file" id="news-photo" multiple/>
+        </div>
+        <div class="form-group row">
+            <input class="btn btn-warning col-md-2 btn-post-news" type="submit" value="POST"/>
+        </div>
+    </div>
+}
+@*@Umbraco.Field("pageName", altText:"Post News")*@
+
+@*using (Html.BeginUmbracoForm<PostNewsController>("UploadImage"))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        <input type="file" name="file" id="artworkfile" multiple />
+        <br />
+        <input type="submit" value="Upload" class="btn btn-primary btn-submit" />
+    }*@

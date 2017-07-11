@@ -1,0 +1,64 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@using System.Xml.Linq
+@using News.ViewModel
+@using umbraco.cms.helpers
+@using umbraco.MacroEngines
+@using umbraco.NodeFactory
+@using Umbraco.Core.Services
+@*@inherits UmbracoViewPage<News.ViewModel.HomeViewModel>*@
+@{
+    Layout = "Master.cshtml";
+    //var master = Model.Content.AncesntorsOrSelf();
+    //var list = Model.Content..DescendantsOrSelf("postnews").ToList();
+    //IEnumerable<Node> nodes = 
+    dynamic parents = new DynamicNode(1154);
+    var list = parents.Children().Where("Visible");
+    var cur = UmbracoContext.PublishedContentRequest.PublishedContent;
+    //var master = Model.Content.AncesntorsOrSelf();
+    //var list = Model.Content.DescendantsOrSelf("postnews")
+    //foreach (var item in list)
+    //{
+    //    Write(item.Name);
+    //}
+    var newsCollection = cur.FollowingSibling("PostNews").Children;
+
+}
+
+       
+<h1>Home</h1>
+</hr>
+
+<h3 style="color:green">@TempData["Message"]</h3>
+@*////////////////////*@
+    @foreach (var node in newsCollection)
+    {
+        var image = node.GetPropertyValue<IPublishedContent>("newsPhoto");
+        try
+        {
+            var url = image.Url;
+
+            <div class="container jumbotron">
+                <h2 class="news-header row">@(node.GetPropertyValue<string>("newsTitle"))</h2>
+                <div class="short-news-content row">
+                    @(node.GetPropertyValue<string>("newsContent"))
+                </div>
+                @*<div class="short-news-image">
+                        <img alt="News Image" height="300" src="http://lorempixel.com/1055/300/nature/" />
+                    </div>*@
+                <div class="short-news-image">
+                    <img alt="News Image" height="300" src="@url" />
+                </div>
+                <div class="btn-news-detail style="height:50px;">
+                    @*<span class="btn btn-success col-md-2 pull-right" value="ReadNEws">@Html.ActionLink("Read", "ReadNews", "NewsDetail", new {title = node.NewsTitle, contents = node.NewsContent, image = node.NewsImage })</span>*@
+                    <button class="btn btn-success"><a href="@node.Url">Read News</a></button>
+                    @*@Html.ActionLink("Read News", "ReadNews", "Home", new { model = node })*@
+                </div>
+            </div>
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+           
+        }
+
+    }

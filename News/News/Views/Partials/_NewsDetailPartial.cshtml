@@ -1,0 +1,36 @@
+﻿@using HtmlAgilityPack
+@using News.Controller
+@using News.ViewModel
+@inherits UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+@*@using (Html.BeginUmbracoForm("Detail", "NewsDetail"))*@
+@{
+    var cur = UmbracoContext.PublishedContentRequest.PublishedContent;
+    <div class="form-horizontal container post-news-form">
+        <h2 style="color:red">@*@TempData["Message"]*@ </h2>
+        <div class="news-title form-group row">
+            <label class="col-md-2">News Title</label>
+            @*@Html.EditorFor(x => Model.NewsTitle, new {HtmlAttribute = new {@class = "form-control col-md-10", @Value = Model.NewsTitle}})*@
+            @*<input value=@Model.NewsTitle class = "form-control col-md-10"/>*@
+            <div>NewsTitle</div> 
+        </div>
+        <div class="news-content row">
+            <label class="col-md-2">News Content</label>
+            @*@Html.TextAreaFor(x => Model.NewsContent, new {HtmlAttribute = new {@class = "form-control col-md-10", @Value = Model.NewsContent}})*@
+            @*<input value=@Model.NewsContent class = "form-control col-md-10"/>*@
+            <div>NewsContent</div> 
+        </div>
+        <div class="news-image form-group row">
+            @*<label class="col-md-2">News Image</label>
+            <input class="form-control col-md-10" name="@Model.NewsImage"/>*@
+            <label class="col-md-2"></label>
+            <img src="NewsImage" class="col-md-10 " alt="News Image Upload" id="news-image-upload"/>
+        </div>
+
+        @*<div class="form-group row">
+    <button class="btn btn-default col-md-2 btn-news-detail" ><a href="~/home">Back To Home</a></button>
+        </div>*@
+    </div>
+}

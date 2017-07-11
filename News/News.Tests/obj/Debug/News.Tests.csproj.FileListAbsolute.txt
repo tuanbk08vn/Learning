@@ -1,0 +1,310 @@
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\ApplicationInsights.config
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\csc.exe
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\vbc.exe
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\AutoMapper.Net4.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\News.Tests.dll.config
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\News.Tests.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\News.Tests.pdb
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\News.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\News.pdb
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\obj\Debug\News.Tests.csprojResolveAssemblyReference.cache
+D:\INTERNSHIP\Umbraco\News\News.Tests\obj\Debug\News.Tests.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\obj\Debug\News.Tests.pdb
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\umbraco.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Umbraco.Core.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.Mvc.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.Http.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\interfaces.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\AutoMapper.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\MiniProfiler.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Owin.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\businesslogic.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\ClientDependency.Core.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\cms.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\controls.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Owin.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Examine.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Semver.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.WebPages.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\umbraco.DataLayer.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\HtmlAgilityPack.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\UmbracoExamine.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Lucene.Net.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\umbraco.providers.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\MarkdownSharp.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\log4net.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\ImageProcessor.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Log4Net.Async.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Data.SqlServerCe.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\MySql.Data.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.Razor.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\TidyNet.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\umbraco.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Umbraco.Core.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.Mvc.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.Http.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\interfaces.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\AutoMapper.pdb
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\AutoMapper.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\MiniProfiler.pdb
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\MiniProfiler.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Owin.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\businesslogic.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\ClientDependency.Core.pdb
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\cms.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\controls.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Examine.pdb
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.WebPages.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\umbraco.DataLayer.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\HtmlAgilityPack.pdb
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\HtmlAgilityPack.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\UmbracoExamine.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Lucene.Net.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\umbraco.providers.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.Razor.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\INTERNSHIP\Umbraco\News\News.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\ApplicationInsights.config
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\csc.exe
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\vbc.exe
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\AutoMapper.Net4.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\News.Tests.dll.config
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\News.Tests.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\News.Tests.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\News.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\umbraco.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.Mvc.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Umbraco.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.Http.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\interfaces.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\AutoMapper.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\MiniProfiler.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\businesslogic.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\ClientDependency.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\cms.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\controls.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Examine.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Semver.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.WebPages.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\umbraco.DataLayer.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\HtmlAgilityPack.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\UmbracoExamine.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Lucene.Net.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\umbraco.providers.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\MarkdownSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.Razor.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\log4net.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\ImageProcessor.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Log4Net.Async.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Data.SqlServerCe.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\MySql.Data.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\TidyNet.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\News.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\umbraco.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.Mvc.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Umbraco.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.Http.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\interfaces.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\AutoMapper.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\AutoMapper.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\MiniProfiler.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\MiniProfiler.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Owin.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\businesslogic.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\ClientDependency.Core.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\cms.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\controls.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Examine.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.WebPages.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\umbraco.DataLayer.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\HtmlAgilityPack.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\HtmlAgilityPack.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\UmbracoExamine.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Lucene.Net.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\umbraco.providers.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.Razor.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\obj\Debug\News.Tests.csprojResolveAssemblyReference.cache
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\obj\Debug\News.Tests.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News.Tests\obj\Debug\News.Tests.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\ApplicationInsights.config
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\csc.exe
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\vbc.exe
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\AutoMapper.Net4.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\News.Tests.dll.config
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\News.Tests.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\News.Tests.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\News.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\umbraco.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.Mvc.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Umbraco.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.Http.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\interfaces.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\AutoMapper.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\MiniProfiler.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\businesslogic.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\ClientDependency.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\cms.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\controls.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Examine.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Semver.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.WebPages.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\umbraco.DataLayer.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\HtmlAgilityPack.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\UmbracoExamine.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Lucene.Net.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\umbraco.providers.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\MarkdownSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.Razor.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\log4net.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\ImageProcessor.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Log4Net.Async.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Data.SqlServerCe.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\MySql.Data.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\TidyNet.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\News.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\umbraco.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.Mvc.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Umbraco.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.Http.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\interfaces.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\AutoMapper.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\AutoMapper.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\MiniProfiler.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\MiniProfiler.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Owin.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\businesslogic.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\ClientDependency.Core.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\cms.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\controls.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Examine.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.WebPages.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\umbraco.DataLayer.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\HtmlAgilityPack.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\HtmlAgilityPack.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\UmbracoExamine.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Lucene.Net.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\umbraco.providers.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.Razor.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\obj\Debug\News.Tests.csprojResolveAssemblyReference.cache
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\obj\Debug\News.Tests.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News.Tests\obj\Debug\News.Tests.pdb

@@ -1,0 +1,48 @@
+﻿@using News.Controller
+@inherits Umbraco.Web.Mvc.UmbracoViewPage<News.ViewModel.ContactUsViewModel>
+@{
+    //Layout = "Master.cshtml";
+    //var pageName = Model.Content.Name;
+    //var childPages = Model.Content.Children;
+   // <script src="~/Scripts/contactUs.js"></script>
+}
+
+@* the fun starts here *@
+
+@using (Html.BeginUmbracoForm<ContactUsController>("ContactUsSubmit"))
+{
+    <div class="form-horizontal container contact-us-form">
+        <div class="name-guest form-group row">
+            <label class="col-md-2">Name</label>
+            @*<input class="form-control col-md-6" name="Name">*@
+            @Html.EditorFor(m=>m.Name, new { htmlAttributes = new { @class = "form-control col-md-6", @Value="Tuan Pham" } })
+        </div>
+
+        <div class="phone-guest form-group row">
+            <label class="col-md-2">Phone</label>
+            @*<input class="form-control col-md-6" name="Phone">*@
+            @Html.EditorFor(m=>m.Phone, new { htmlAttributes = new { @class = "form-control col-md-6", @Value="0123456789" } })
+        </div>
+        <div class="address-guest form-group row">
+            <label class="col-md-2">Address</label>
+            @*<input class="form-control col-md-6" name="Address">*@
+            @Html.EditorFor(m=>m.Address, new { htmlAttributes = new { @class = "form-control col-md-6", @Value="61 Nguyen Van Thu" } })
+        </div>
+        <div class="email-guest form-group row">
+            <label class="col-md-2">Email</label>
+            @*<input class="form-control col-md-6" name="Email">*@
+            @Html.EditorFor(m=>m.Email, new { htmlAttributes = new { @class = "form-control col-md-6", @Value="tuan@gmail.com" } })
+        </div>
+        <div class="note-guest row">
+            <label class="col-md-2">Note</label>
+            @*<textarea class="form-control col-md-10" name="Note"></textarea>*@
+            @Html.EditorFor(m=>m.Note, new { htmlAttributes = new { @class = "form-control col-md-6", @Value="This is Contact Us Content!!!"} })
+        </div>
+
+        <div class="form-group row">
+            <input class="btn btn-info col-md-2 btn-contact-us" type="submit" value="SEND"/>
+        </div>
+    </div>
+}
+
+@*@Umbraco.Field("pageName", altText: "Contact Us")*@

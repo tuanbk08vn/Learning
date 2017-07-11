@@ -1,0 +1,11 @@
+﻿@using News.Controller
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+
+@* the fun starts here *@
+
+
+<h1>Account</h1>
+@Html.Action("Index", "Account")

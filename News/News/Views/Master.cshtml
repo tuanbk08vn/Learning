@@ -1,0 +1,78 @@
+﻿@using Microsoft.AspNet.Identity
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CNN NEWS</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="~/Content/Site.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+<body>
+@*/////////////////////////////////////////////////////////////////////////////////////////////*@
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @*@Html.ActionLink("SHOPPING", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })*@
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav ul-navigation">
+                @*<li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>*@
+                @*<li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li>@Html.ActionLink("USER", "Index", "Users")</li>
+                <li>@Html.ActionLink("UPLOAD", "Upload", "ProductUploads")</li>
+                <li>@Html.ActionLink("PRODUCT", "Index", "Products")</li>
+                <li>@Html.ActionLink("ORDER", "Index", "Orders")</li>
+                <li>@Html.ActionLink("ORDER DETAIL", "Index", "OrderDetails")</li>
+                <li>@Html.ActionLink("CATEGORY", "Index", "Categories")</li>*@
+                <li class="navigation"><a href="~/">Home</a></li>
+                <li class="navigation"><a href="~/postnews">Post News</a></li>
+                <li class="navigation"><a href="~/register">Register</a></li>
+                <li class="navigation"><a href="~/login">Login</a></li>
+                <li class="navigation"><a href="~/contactus">Contact Us</a></li>
+                <li class="account-info">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <div style="color: white; text-align: center; font-style: italic; font-size:16px">@User.Identity.Name</div>
+                        <div style="color: lightblue; text-align: center; font-style: italic;font-size:14px">@Html.ActionLink("Logout", "MemberLogout", "Login")</div>
+                    }
+                </li>
+                <li class="edit-account">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <div style="color: white; text-align: center"><a href="~/account" id="edit-account-link">Edit Account</a></div>
+                    }
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="container body-content">
+    @RenderBody()
+    <hr/>
+    <footer>
+        <p>&copy; @DateTime.Now.Year - CNN NEWS</p>
+    </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,417 @@
+D:\INTERNSHIP\Umbraco\News\News\bin\AutoMapper.Net4.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\ApplicationInsights.config
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\csc.exe
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\vbc.exe
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\VBCSCompiler.exe
+D:\INTERNSHIP\Umbraco\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\INTERNSHIP\Umbraco\News\News\bin\News.dll.config
+D:\INTERNSHIP\Umbraco\News\News\bin\News.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\News.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\AutoMapper.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\businesslogic.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\ClientDependency.Core.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\ClientDependency.Core.Mvc.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\cms.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\controls.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\CookComputing.XmlRpcV2.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Examine.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\HtmlAgilityPack.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\ICSharpCode.SharpZipLib.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\ImageProcessor.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\ImageProcessor.Web.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\interfaces.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Log4Net.Async.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\log4net.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Lucene.Net.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\MarkdownSharp.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.Web.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.CodeAnalysis.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.Security.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\MiniProfiler.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\MySql.Data.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Newtonsoft.Json.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Owin.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Semver.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\SQLCE4Umbraco.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Collections.Immutable.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Data.SqlServerCe.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Data.SqlServerCe.Entity.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Net.Http.Formatting.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Reflection.Metadata.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Threading.Tasks.Dataflow.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Helpers.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Http.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Http.WebHost.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Mvc.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Razor.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.WebPages.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.WebPages.Razor.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\TidyNet.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Umbraco.Core.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.DataLayer.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.editorControls.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.MacroEngines.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Umbraco.ModelsBuilder.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.providers.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\Umbraco.Web.UI.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\UmbracoExamine.dll
+D:\INTERNSHIP\Umbraco\News\News\bin\AutoMapper.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\AutoMapper.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\AutoMapper.Net4.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\businesslogic.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\ClientDependency.Core.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\ClientDependency.Core.Mvc.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\cms.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\controls.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Examine.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\HtmlAgilityPack.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\HtmlAgilityPack.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\interfaces.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Lucene.Net.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.Web.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.Security.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\MiniProfiler.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\MiniProfiler.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Newtonsoft.Json.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\SQLCE4Umbraco.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Net.Http.Formatting.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Threading.Tasks.Dataflow.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Helpers.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Http.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Http.WebHost.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Mvc.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.Razor.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.WebPages.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\System.Web.WebPages.Razor.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Umbraco.Core.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.DataLayer.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.editorControls.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.MacroEngines.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Umbraco.ModelsBuilder.pdb
+D:\INTERNSHIP\Umbraco\News\News\bin\umbraco.providers.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\Umbraco.Web.UI.xml
+D:\INTERNSHIP\Umbraco\News\News\bin\UmbracoExamine.xml
+D:\INTERNSHIP\Umbraco\News\News\obj\Debug\News.dll
+D:\INTERNSHIP\Umbraco\News\News\obj\Debug\News.pdb
+D:\INTERNSHIP\Umbraco\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\ApplicationInsights.config
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\csc.exe
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\vbc.exe
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\VBCSCompiler.exe
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\AutoMapper.Net4.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\News.dll.config
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\News.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\News.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\AutoMapper.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\businesslogic.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\ClientDependency.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\ClientDependency.Core.Mvc.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\cms.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\controls.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\CookComputing.XmlRpcV2.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Examine.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\HtmlAgilityPack.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\ICSharpCode.SharpZipLib.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\ImageProcessor.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\ImageProcessor.Web.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\interfaces.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Log4Net.Async.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\log4net.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Lucene.Net.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\MarkdownSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.Web.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.Security.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\MiniProfiler.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\MySql.Data.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Newtonsoft.Json.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Semver.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\SQLCE4Umbraco.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Collections.Immutable.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Data.SqlServerCe.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Data.SqlServerCe.Entity.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Net.Http.Formatting.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Reflection.Metadata.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Threading.Tasks.Dataflow.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Helpers.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Http.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Http.WebHost.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Mvc.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Razor.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.WebPages.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.WebPages.Razor.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\TidyNet.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Umbraco.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.DataLayer.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.editorControls.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.MacroEngines.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Umbraco.ModelsBuilder.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.providers.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Umbraco.Web.UI.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\UmbracoExamine.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\AutoMapper.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\AutoMapper.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\AutoMapper.Net4.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\businesslogic.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\ClientDependency.Core.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\ClientDependency.Core.Mvc.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\cms.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\controls.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Examine.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\HtmlAgilityPack.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\HtmlAgilityPack.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\interfaces.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Lucene.Net.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.Web.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.Security.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\MiniProfiler.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\MiniProfiler.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Newtonsoft.Json.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\SQLCE4Umbraco.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Net.Http.Formatting.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Threading.Tasks.Dataflow.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Helpers.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Http.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Http.WebHost.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Mvc.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.Razor.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.WebPages.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\System.Web.WebPages.Razor.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Umbraco.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.DataLayer.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.editorControls.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.MacroEngines.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Umbraco.ModelsBuilder.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\umbraco.providers.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\Umbraco.Web.UI.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\bin\UmbracoExamine.xml
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\obj\Debug\News.dll
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\obj\Debug\News.pdb
+D:\IT\DAI HOC\HK4\InternShip\News\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\ApplicationInsights.config
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\csc.exe
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\vbc.exe
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\VBCSCompiler.exe
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\AutoMapper.Net4.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\News.dll.config
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\News.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\News.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\AutoMapper.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\businesslogic.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\ClientDependency.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\ClientDependency.Core.Mvc.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\cms.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\controls.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\CookComputing.XmlRpcV2.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Examine.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\HtmlAgilityPack.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\ICSharpCode.SharpZipLib.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\ImageProcessor.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\ImageProcessor.Web.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\interfaces.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Log4Net.Async.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\log4net.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Lucene.Net.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\MarkdownSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.DependencyCollector.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.Web.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.WindowsServer.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.ApplicationInsights.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.CodeAnalysis.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.Security.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\MiniProfiler.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\MySql.Data.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Newtonsoft.Json.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Owin.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Semver.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\SQLCE4Umbraco.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Collections.Immutable.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Data.SqlServerCe.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Data.SqlServerCe.Entity.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Net.Http.Formatting.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Reflection.Metadata.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Threading.Tasks.Dataflow.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Helpers.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Http.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Http.WebHost.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Mvc.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Razor.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.WebPages.Deployment.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.WebPages.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.WebPages.Razor.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\TidyNet.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Umbraco.Core.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.DataLayer.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.editorControls.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.MacroEngines.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Umbraco.ModelsBuilder.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.providers.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Umbraco.Web.UI.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\UmbracoExamine.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\AutoMapper.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\AutoMapper.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\AutoMapper.Net4.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\businesslogic.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\ClientDependency.Core.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\ClientDependency.Core.Mvc.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\cms.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\controls.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Examine.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\HtmlAgilityPack.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\HtmlAgilityPack.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\interfaces.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Lucene.Net.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.DependencyCollector.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.Web.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AI.WindowsServer.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.ApplicationInsights.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.Security.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\MiniProfiler.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\MiniProfiler.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Newtonsoft.Json.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\SQLCE4Umbraco.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Net.Http.Formatting.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Threading.Tasks.Dataflow.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Helpers.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Http.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Http.WebHost.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Mvc.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.Razor.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.WebPages.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.WebPages.Deployment.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\System.Web.WebPages.Razor.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Umbraco.Core.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.DataLayer.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.editorControls.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.MacroEngines.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Umbraco.ModelsBuilder.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\umbraco.providers.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\Umbraco.Web.UI.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\bin\UmbracoExamine.xml
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\obj\Debug\News.dll
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\obj\Debug\News.pdb
+D:\IT\DAI HOC\HK4\InternShip\News - Copy\News\News\obj\Debug\News.csprojResolveAssemblyReference.cache

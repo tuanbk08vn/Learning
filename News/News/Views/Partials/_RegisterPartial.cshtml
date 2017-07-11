@@ -1,0 +1,46 @@
+﻿@using News.Controller
+@inherits Umbraco.Web.Mvc.UmbracoViewPage<News.ViewModel.RegisterViewModel>
+
+@using (Html.BeginUmbracoForm<RegisterController>("Register"))
+{
+    <div class="form-horizontal container register-form">
+        <div class="first-name form-group row">
+            <label class="col-md-2">First Name</label>
+            @Html.EditorFor(m => m.FirstName, new { htmlAttributes = new { @class = "form-control col-md-6" , @Value="Tuan"} })
+        </div>
+        <div class="last-name form-group row">
+            <label class="col-md-2">Last Name</label>
+            @Html.EditorFor(m => m.LastName, new { htmlAttributes = new { @class = "form-control col-md-6" , @Value="Pham"} })
+        </div>
+        <div class="username form-group row">
+            <label class="col-md-2">UserName</label>
+            @Html.EditorFor(m => m.UserName, new { htmlAttributes = new { @class = "form-control col-md-6" , @Value= "tuanbk08vn" } })
+        </div>
+        <div class="password form-group row">
+            <label class="col-md-2">Password</label>
+            @Html.EditorFor(m => m.Password, new { htmlAttributes = new { @class = "form-control col-md-6", @Value= "tuanbk08vn" } })
+        </div>
+
+        <div class="DOB form-group row">
+            <label class="col-md-2">DOB</label>
+            @Html.EditorFor(m => m.DOB, new { htmlAttributes = new { @class = "form-control col-md-6", type="date", @Value="2011-09-11" } })
+        </div>
+
+        <div class="phone form-group row">
+            <label class="col-md-2">Phone</label>
+            @Html.EditorFor(m => m.Phone, new { htmlAttributes = new { @class = "form-control col-md-6", @Value = "0123456789" } })
+        </div>
+        <div class="address form-group row">
+            <label class="col-md-2">Address</label>
+            @Html.EditorFor(m => m.Address, new { htmlAttributes = new { @class = "form-control col-md-6" , @Value="60 Nguyen Van Thu"} })
+        </div>
+        <div class="email form-group row">
+            <label class="col-md-2">Email</label>
+            @Html.EditorFor(m => m.Email, new { htmlAttributes = new { @class = "form-control col-md-6", @Value="tuan@gmail.com" } })
+            <h3 style="color:red">@TempData["error"]</h3>
+        </div>
+        <div class="form-group row">
+            <input class="btn btn-primary col-md-2 btn-register" type="submit" value="SignUp"/>
+        </div>
+    </div>
+}

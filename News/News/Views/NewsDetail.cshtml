@@ -1,0 +1,54 @@
+﻿@using System.CodeDom
+@using HtmlAgilityPack
+@using News.Controller
+@using News.ViewModel
+@inherits UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+@*@using (Html.BeginUmbracoForm("Detail", "NewsDetail"))*@
+@{
+    var cur = UmbracoContext.PublishedContentRequest.PublishedContent;
+    var title = cur.GetPropertyValue<string>("newsTitle");
+    var content = cur.GetPropertyValue<string>("newsContent");
+    var image = cur.GetPropertyValue<string>("newsImage");
+    try
+    {
+        var myImage = cur.GetPropertyValue<IPublishedContent>("newsPhoto");
+        <div class="form-horizontal container post-news-form">
+            <h2 style="color: red">@*@TempData["Message"]*@ </h2>
+            <div class="news-title form-group row">
+                <label class="col-md-2">News Title</label>
+                @*@Html.EditorFor(x => Model.NewsTitle, new {HtmlAttribute = new {@class = "form-control col-md-10", @Value = Model.NewsTitle}})*@
+                @*<input value=@Model.NewsTitle class = "form-control col-md-10"/>*@
+                <div>@title</div>
+            </div>
+            <div class="news-content row">
+                <label class="col-md-2">News Content</label>
+                @*@Html.TextAreaFor(x => Model.NewsContent, new {HtmlAttribute = new {@class = "form-control col-md-10", @Value = Model.NewsContent}})*@
+                @*<input value=@Model.NewsContent class = "form-control col-md-10"/>*@
+                <div>@content</div>
+            </div>
+            @*<div class="news-image form-group row">*@
+                @*<label class="col-md-2">News Image</label>
+                <input class="form-control col-md-10" name="@Model.NewsImage"/>*@
+                @*<label class="col-md-2">News Image</label>*@
+                @*<img src="@image" alt="News Image Upload" id="news-image-upload"/>*@
+            @*</div>*@
+
+            <div class="news-image form-group row">
+                @*<label class="col-md-2">News Image</label>
+            <input class="form-control col-md-10" name="@Model.NewsImage"/>*@
+                <label class="col-md-2">My Image</label>
+                <img src="@myImage.Url" alt="My Image Upload" style="height: 200px; width:800px" id="my-image-upload" />
+            </div>
+            @*<div class="form-group row">
+            <button class="btn btn-default col-md-2 btn-news-detail" ><a href="~/home">Back To Home</a></button>
+                </div>*@
+        </div>
+    }
+    catch (Exception ex)
+    {
+        
+    }
+}

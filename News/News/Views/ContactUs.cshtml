@@ -1,0 +1,15 @@
+﻿@using News.Controller
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+    //var pageName = Model.Content.Name;
+    //var childPages = Model.Content.Children;
+    <script src="~/Scripts/contactUs.js"></script>
+}
+
+@* the fun starts here *@
+
+<h1>Contact Us</h1>
+@Html.Action("Index","ContactUs")   
+
+@*@Umbraco.Field("pageName", altText: "Contact Us")*@

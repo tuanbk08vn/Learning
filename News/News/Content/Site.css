@@ -1,0 +1,126 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+textarea {
+    max-width: 450px;
+}
+h1 {
+    text-align: center;
+}
+.navigation {
+    /*color: maroon !important;*/
+    font-weight: bold;
+    font-size: 18px;
+    align-content: center;
+    display: block;
+    background-color: orange;
+    width: 15%;
+    float: left;
+}
+.navigation a {
+    height: 100%;
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: darkblue !important;
+
+}
+.navigation a:hover{
+    background-color: maroon !important;
+    color: white !important;
+
+}
+.ul-navigation {
+    width: 137%;
+}
+.account-info {
+    height: 50px;
+    background-color: #000;
+}
+#edit-account-link {
+    height: 50px;
+    font-weight: bold;
+    padding-top: 15%;
+    color: lightyellow;
+    display: block
+}
+#edit-account-link :hover {
+    font-size: 1.2em;
+    color: yellowgreen;
+    text-decoration: none;
+}
+.btn-news-detail button {
+    height: 60px;
+}
+.btn-news-detail {
+    padding: 10px
+}
+.btn-contact-us {
+    margin-top: 20px;
+}
+.post-news-form{
+    margin-top: 20px;
+    background-color: #e5e5e5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: grey 5px 5px;
+}
+.post-news-form label {
+    text-align: center;
+    vertical-align: middle;    
+}
+.post-news-form > div {
+    padding-top: 20px;
+}
+.post-news-form textarea {
+    max-width: 800px;
+    height: 300px;
+    max-height: 300px;
+}
+#news-image-upload {
+    height: 180px;
+    width: 800px;
+    display: none;
+    padding-top: 20px;
+}
+input {
+    max-width: 800px !important;
+}
+.btn-post-news, .btn-register, .btn-contact-us, .btn-login, .btn-account-edit{
+    position: relative;
+    left: 45% !important;
+    font-weight: bold;
+}
+.contact-us-form, .register-form, .edit-form{
+    margin-top: 20px;
+    width: 55%;
+    background-color: #e5e5e5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: grey 5px 5px;
+}
+.contact-us-form  input, .register-form input {
+    max-width: 450px !important;
+}
+
+#news-image-upload {
+    height: 200px;
+    width: 800px;
+    display: block;
+}
